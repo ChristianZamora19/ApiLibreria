@@ -81,7 +81,7 @@
       </div>
 <br>
 <?php
-    $conn= mysqli_connect("localhost","root","","libreriasapi");
+    $conn= mysqli_connect("ohunm00fjsjs1uzy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com","w0zqgoo14idsp67l","kb49wvo2jyn0j5p3","gjx3mfmx6vmbaidl");
 ?>
          <?php
             $sql = "SELECT * FROM librerias";
